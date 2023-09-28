@@ -48,7 +48,7 @@
 <br>
 <h2 align="left">📄 Certificate</h2>
 
-- Qualifier Coding Ninjas- CODEKAZE, Qualifier of Round 2 Global Rank 5802. [Certificate](https://drive.google.com/file/d/13o_VNizyOWOsV5PkuvQaoZ6IUfUIlSD-/view)
+- Qualifier Coding Ninjas- CODEKAZE, Qualifier of Round 2 Global Rank 899 and collage rank 14. [Certificate](https://drive.google.com/file/d/13o_VNizyOWOsV5PkuvQaoZ6IUfUIlSD-/view)
 - Code Gladiators semifinalist,It is coding competition to identify top innovative programmers.
 - Google ux/ui Design Professional certificate-providing by GOOGLE(COURSERA)[Certificate](https://drive.google.com/file/d/1h9cesxndg05YcxAU5Wxjy_hHEkkXsh9I/view)
 - AI Engineering research Certificate , providing by IBM.  [Certificate](https://drive.google.com/file/d/1p8ccVXm9pKy9T1rZie56v9Nk8GV8Gm-W/view)
