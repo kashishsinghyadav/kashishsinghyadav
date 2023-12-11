@@ -36,8 +36,7 @@
 | <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Live</h3> | <h3>TimeLine</h3> |
 |-----------|-----------|-----------|-----------|-----------|
 | GitHub Peek - View and Follow | [Code](https://github.com/kashishsinghyadav) | ```WEB APPLICATION DEVELOPMENT``` ```IOT``` ```ML``` | [Demo-Drive](https://github.com/kashishsinghyadav) | AUG 22 - SEP 23 |
-| VoiceVista -Speech-to-Sign-language-Translator | [Code](https://github.com/kashishsinghyadav/VoiceVista-voice-to-sign-converter/) | `````` `EasyGui``PyAudio.
-``` ```Google Speech API``` ```python``` ```NLP``` ``` Sphix``` | [Demo-Drive](https://github.com/kashishsinghyadav/VoiceVista-voice-to-sign-converter/) | Dec 23 -  Present |
+| VoiceVista -Speech-to-Sign-language-Translator | [Code](https://github.com/kashishsinghyadav/VoiceVista-voice-to-sign-converter/) | ```EasyGui``` ```PyAudio``` ```Google Speech API``` ```python``` ```NLP``` ``` Sphix``` | [Demo-Drive](https://github.com/kashishsinghyadav/VoiceVista-voice-to-sign-converter/) | Dec 23 -  Present |
 | Jobwave - an online job portal | [Code](https://github.com/kashishsinghyadav/Jobwave-Online-job-portal) | ```HTML``` ```CSS``` ```Javascript``` ```python``` ```django``` ```sqlite``` | [Demo-Drive](https://github.com/kashishsinghyadav/Jobwave-Online-job-portal) | Jul 23 - AUG 23 |
 | Weather forecast app | [Code](https://github.com/kashishsinghyadav/Weather-App-with-Python-Django) | ```Machine Learning``` ```Linear Regression``` ```Html,Css,Js``` ```python``` ```djnago``` ```mysql```| [Demo-Drive](https://github.com/kashishsinghyadav/Weather-App-with-Python-Django) | Jul 23 - AUG 22 |
 | Docter -Patient Appointment system | [Code](https://github.com/kashishsinghyadav/Docter-appointment-application) | ```Html,Css,Js``` ```PYTHON-django ``` ```Google place api``` ```database-sqlite```| [Demo-Drive](https://github.com/kashishsinghyadav/Docter-appointment-application) | Jan 23 - Mar 23 |
