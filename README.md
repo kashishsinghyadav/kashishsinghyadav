@@ -54,7 +54,7 @@
 
 - Qualifier Coding Ninjas- CODEKAZE, Qualifier of Round 2 Global Rank 899 and collage rank 14. [Certificate](https://drive.google.com/file/d/1rEN9BCHKDOVU_bYXwCn3dq0ELSqvoJlh/view)
 - Code Gladiators semifinalist,It is coding competition to identify top innovative programmers.
-- Leetcode rating (1850)[Profile](https://leetcode.com/Kashish_singh_yadav_20/)
+- Knight at Leetcode (1859)[Profile](https://leetcode.com/Kashish_singh_yadav_20/)
 - Google ux/ui Design Professional certificate-providing by GOOGLE(COURSERA)[Certificate](https://drive.google.com/file/d/1h9cesxndg05YcxAU5Wxjy_hHEkkXsh9I/view)
 - AI Engineering research Certificate , providing by IBM.  [Certificate](https://drive.google.com/file/d/1p8ccVXm9pKy9T1rZie56v9Nk8GV8Gm-W/view)
 - ML,Nosql Assessment Passed on Linkedln: Passed in the top 5% among 1.5M participants. 
