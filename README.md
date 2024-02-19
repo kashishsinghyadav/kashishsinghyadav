@@ -2,7 +2,7 @@
 
 <h1 align="center">𝐈'𝐦 𝐊𝐀𝐒𝐇𝐈𝐒𝐇 🌸 </h1>
 <h3 align="center">"𝐅𝐞𝐫𝐯𝐞𝐧𝐭 𝐭𝐞𝐜𝐡𝐢𝐞, 𝐞𝐚𝐠𝐞𝐫 𝐭𝐨 𝐥𝐞𝐚𝐫𝐧 𝐚𝐧𝐝 𝐛𝐮𝐢𝐥𝐝 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐦𝐞𝐚𝐧𝐢𝐧𝐠𝐟𝐮𝐥"</h3>
-<br>
+<!-- <br> -->
 <!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 <br> -->
 <br>
@@ -15,18 +15,14 @@
 
 - 🔭 I’m currently working on [𝐅𝐚𝐜𝐞 𝐫𝐞𝐜𝐨𝐠𝐢𝐧𝐚𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐭𝐫𝐚𝐧𝐬𝐚𝐜𝐭𝐢𝐨𝐧](https://github.com/kashishsinghyadav/)
 
-- 🌱 I’m currently learning **𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒂𝒏𝒅 𝑵𝑳𝑷**
-
-- 👯 I’m looking to collaborate on **𝑭𝒂𝒄𝒆 𝒓𝒆𝒄𝒐𝒈𝒊𝒏𝒂𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒕𝒓𝒂𝒏𝒔𝒂𝒄𝒕𝒊𝒐𝒏 𝒔𝒚𝒔𝒕𝒆𝒎**
-
-- 🤝 I’m looking for help with **𝐅𝐚𝐜𝐞 𝐫𝐞𝐜𝐨𝐠𝐢𝐧𝐚𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐭𝐫𝐚𝐧𝐬𝐚𝐜𝐭𝐢𝐨𝐧**
-
-- 👨‍💻 All of my projects are available at [https://kashishsingh.vercel.app/](https://kashishsingh.vercel.app/)
+- 🌱 I’m currently learning ** REST APIs **
+<!-- - 👯 I’m looking to collaborate on **𝑭𝒂𝒄𝒆 𝒓𝒆𝒄𝒐𝒈𝒊𝒏𝒂𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒕𝒓𝒂𝒏𝒔𝒂𝒄𝒕𝒊𝒐𝒏 𝒔𝒚𝒔𝒕𝒆m** -->
+- 👨‍💻 All of my projects are available at [Github](https://github.com/kashishsinghyadav)
 
 - 💬 Ask me about **
   
-
-𝐖𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 , 𝐃𝐚𝐭𝐚 𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐚𝐧𝐝 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 , 𝐈𝒐𝑻 ,𝐏𝐲𝐭𝐡𝐨𝐧 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝒈  𝐯𝐚𝐫𝐢𝐨𝐮𝐬 𝐦𝐨𝐝𝐮𝐥𝐞, 𝒍𝒊𝒃𝒓𝒂𝒓𝒚 𝐚𝐧𝐝 𝐟𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝒔 𝐥𝐢𝐤𝐞 𝐝𝐣𝐚𝐧𝐠𝐨 , 𝐟𝐥𝐚𝐬𝐤,𝐧𝐮𝐦𝐩𝐲 ,𝒑𝒂𝒏𝒅𝒂𝒔, 𝐦𝐚𝐭𝐩𝐥𝐨𝐭𝐥𝐢𝐛 𝒂𝒏𝒅 𝒏𝒐𝒏 𝒑𝒓𝒐𝒄𝒆𝒅𝒖𝒓𝒂𝒍 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝒂𝒏𝒅 𝒄𝒍𝒐𝒖𝒅𝒄𝒐𝒎𝒑𝒖𝒕𝒊𝒏𝒈(𝑨𝑾𝑺)
+   **
+    PYTHON LIBRARIES AND FRAMEWORKs (PANDAS ,NUMPY , DJANGO etc..) , DSA , Advance SQl , APPLICATION DEVELOPMENT and DATA SCIENCE **
 
 - 📫 How to reach me **𝒌𝒂𝒔𝒉𝒊𝒔𝒉𝒉𝒔𝒊𝒏𝒈𝒉𝒉𝒉@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎**
 
