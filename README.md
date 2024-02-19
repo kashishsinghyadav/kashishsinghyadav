@@ -3,8 +3,8 @@
 <h1 align="center">𝐈'𝐦 𝐊𝐀𝐒𝐇𝐈𝐒𝐇 🌸 </h1>
 <h3 align="center">"𝐅𝐞𝐫𝐯𝐞𝐧𝐭 𝐭𝐞𝐜𝐡𝐢𝐞, 𝐞𝐚𝐠𝐞𝐫 𝐭𝐨 𝐥𝐞𝐚𝐫𝐧 𝐚𝐧𝐝 𝐛𝐮𝐢𝐥𝐝 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐦𝐞𝐚𝐧𝐢𝐧𝐠𝐟𝐮𝐥"</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
-<br>
+<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<br> -->
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashishsinghyadav&label=Profile%20views&color=0e75b6&style=flat" alt="kashishsinghyadav" /> </p>
