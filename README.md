@@ -29,7 +29,7 @@
 
 <br>
 
-<h2>⚙️ Projects  </h2>
+<!-- <h2>⚙️ Projects  </h2>
 
 | <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Live</h3> | <h3>TimeLine</h3> |
 |-----------|-----------|-----------|-----------|-----------|
@@ -42,11 +42,12 @@
 | Portfolio| [Code](https://github.com/kashishsinghyadav/portfolio) | ```Html``` ```Css-Bootstrap``` ```js``` ```react``` | [Live](https://kashishsingh.vercel.app/) | Aug22 - SEP 22 |
 |Heart Rate Monitoring Using IOT| [Code](https://github.com/kashishsinghyadav/Heart-Rate-moniter-system-using-iot) | ```ESP8266``` ```ECG-SENSOR``` ```SPo2-sensor``` ```Oled``` ```Blynk server```| [Demo-Drive](https://github.com/kashishsinghyadav/Heart-Rate-moniter-system-using-iot) | SEP22 - Nov 22 |
 
-
+-->
 <br>
 
 <br>
-<h2 align="left">📄 Certificate</h2>
+
+<!--<h2 align="left">📄 Certificate</h2>
 
 - Qualifier Coding Ninjas- CODEKAZE, Qualifier of Round 2 Global Rank 899 and collage rank 14. [Certificate](https://drive.google.com/file/d/1rEN9BCHKDOVU_bYXwCn3dq0ELSqvoJlh/view)
 - Code Gladiators semifinalist,It is coding competition to identify top innovative programmers.
@@ -55,10 +56,7 @@
 - AI Engineering research Certificate , providing by IBM.  [Certificate](https://drive.google.com/file/d/1p8ccVXm9pKy9T1rZie56v9Nk8GV8Gm-W/view)
 - ML,Nosql Assessment Passed on Linkedln: Passed in the top 5% among 1.5M participants. 
 [Certificate](https://www.linkedin.com/in/kashish-singh-939a10222/)
-
-
-<br>
-
+-->
 
 
 <h3 align="left">⭐ Connect with me on social media 📲 </h3>
