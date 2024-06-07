@@ -13,7 +13,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashishsinghyadav" alt="kashishsinghyadav" /></a> </p>
 
-- 🔭 I’m currently working on [𝐅𝐚𝐜𝐞 𝐫𝐞𝐜𝐨𝐠𝐢𝐧𝐚𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐭𝐫𝐚𝐧𝐬𝐚𝐜𝐭𝐢𝐨𝐧](https://github.com/kashishsinghyadav/)
 
 - 🌱 I’m currently learning ** REST APIs **
 <!-- - 👯 I’m looking to collaborate on **𝑭𝒂𝒄𝒆 𝒓𝒆𝒄𝒐𝒈𝒊𝒏𝒂𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒕𝒓𝒂𝒏𝒔𝒂𝒄𝒕𝒊𝒐𝒏 𝒔𝒚𝒔𝒕𝒆m** -->
