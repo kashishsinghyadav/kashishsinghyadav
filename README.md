@@ -18,10 +18,10 @@
 <!-- - 👯 I’m looking to collaborate on **𝑭𝒂𝒄𝒆 𝒓𝒆𝒄𝒐𝒈𝒊𝒏𝒂𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒕𝒓𝒂𝒏𝒔𝒂𝒄𝒕𝒊𝒐𝒏 𝒔𝒚𝒔𝒕𝒆m** -->
 - 👨‍💻 All of my projects are available at [Github](https://github.com/kashishsinghyadav)
 
-- 💬 Ask me about **
-  
-   **
-    PYTHON LIBRARIES AND FRAMEWORKs (PANDAS ,NUMPY , DJANGO etc..) , DSA , Advance SQl , APPLICATION DEVELOPMENT and DATA SCIENCE **
+- 💬  Ask Me About  
+**`Python`**, **`Java`**, **`JavaScript`**, **`Django`**, **`SQL`**, **`PostgreSQL`**, **`OpenCV`**, **`IoT`**, **`Application Development`**, **`Data Structures and Algorithms (DSA)`**, and **`Competitive Programming (CP)`**.
+
+
 
 - 📫 How to reach me **𝒌𝒂𝒔𝒉𝒊𝒔𝒉𝒉𝒔𝒊𝒏𝒈𝒉𝒉𝒉@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎**
 
