@@ -9,61 +9,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashishsinghyadav&label=Profile%20views&color=0e75b6&style=flat" alt="kashishsinghyadav" /> </p>
 
-<br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashishsinghyadav" alt="kashishsinghyadav" /></a> </p>
-
-
-- 🌱 I’m currently learning ** REST APIs **
+- 🌱 I’m currently learning **Microservices Architecture**
 <!-- - 👯 I’m looking to collaborate on **𝑭𝒂𝒄𝒆 𝒓𝒆𝒄𝒐𝒈𝒊𝒏𝒂𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒕𝒓𝒂𝒏𝒔𝒂𝒄𝒕𝒊𝒐𝒏 𝒔𝒚𝒔𝒕𝒆m** -->
 - 👨‍💻 All of my projects are available at [Github](https://github.com/kashishsinghyadav)
 
-- 💬  Ask Me About  
-**`Python`**, **`Java`**, **`JavaScript`**, **`Django`**, **`SQL`**, **`PostgreSQL`**, **`OpenCV`**, **`IoT`**, **`Application Development`**, **`Data Structures and Algorithms (DSA)`**, and **`Competitive Programming (CP)`**.
+- 💬  Ask Me About  **Programming** and **Application Development**
 
-
-
-- 📫 How to reach me **𝒌𝒂𝒔𝒉𝒊𝒔𝒉𝒉𝒔𝒊𝒏𝒈𝒉𝒉𝒉@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎**
+- 📫 How to reach me *kashishhsinghhh@gmail.com*
 
 
 <br>
+<h3 align="left">Connect with me 📲</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/kashishsingh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashishsingh20" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/kashishsingh20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kashishsingh20/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/kashishsinghy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kashishsinghy" height="30" width="40" /></a>
+<a href="https://x.com/isthisKashishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarun_gusain/" height="30" width="40" /></a>
+<a href="https://medium.com/@kashishsinghy" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="medium_profile" height="30" width="40" />
+</a>
 
-<!-- <h2>⚙️ Projects  </h2>
-
-| <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Live</h3> | <h3>TimeLine</h3> |
-|-----------|-----------|-----------|-----------|-----------|
-| GitHub Peek - View and Follow | [Code](https://github.com/kashishsinghyadav) | ```WEB APPLICATION DEVELOPMENT``` ```IOT``` ```ML``` | [Demo-Drive](https://github.com/kashishsinghyadav) | AUG 22 - SEP 23 |
-| VoiceVista -Speech-to-Sign-language-Translator | [Code](https://github.com/kashishsinghyadav/VoiceVista-voice-to-sign-converter/) | ```EasyGui``` ```PyAudio``` ```Google Speech API``` ```python``` ```NLP``` ``` Sphix``` | [Demo-Drive](https://github.com/kashishsinghyadav/VoiceVista-voice-to-sign-converter/) | Dec 23 -  Present |
-| Jobwave - an online job portal | [Code](https://github.com/kashishsinghyadav/Jobwave-Online-job-portal) | ```HTML``` ```CSS``` ```Javascript``` ```python``` ```django``` ```sqlite``` | [Demo-Drive](https://github.com/kashishsinghyadav/Jobwave-Online-job-portal) | Jul 23 - AUG 23 |
-| Weather forecast app | [Code](https://github.com/kashishsinghyadav/Weather-App-with-Python-Django) | ```Machine Learning``` ```Linear Regression``` ```Html,Css,Js``` ```python``` ```djnago``` ```mysql```| [Demo-Drive](https://github.com/kashishsinghyadav/Weather-App-with-Python-Django) | Jul 23 - AUG 22 |
-| Docter -Patient Appointment system | [Code](https://github.com/kashishsinghyadav/Docter-appointment-application) | ```Html,Css,Js``` ```PYTHON-django ``` ```Google place api``` ```database-sqlite```| [Demo-Drive](https://github.com/kashishsinghyadav/Docter-appointment-application) | Jan 23 - Mar 23 |
-| Telegram Based Home Automation | [Code](https://github.com/kashishsinghyadav/Telegram-based-home-automation) | ```IOT``` ```Embeded c``` ```Telegram api``` ```Blynk server``` | [Demo-Drive](https://github.com/kashishsinghyadav/Telegram-based-home-automation) | Oct 22 - Dec 22 |
-| Portfolio| [Code](https://github.com/kashishsinghyadav/portfolio) | ```Html``` ```Css-Bootstrap``` ```js``` ```react``` | [Live](https://kashishsingh.vercel.app/) | Aug22 - SEP 22 |
-|Heart Rate Monitoring Using IOT| [Code](https://github.com/kashishsinghyadav/Heart-Rate-moniter-system-using-iot) | ```ESP8266``` ```ECG-SENSOR``` ```SPo2-sensor``` ```Oled``` ```Blynk server```| [Demo-Drive](https://github.com/kashishsinghyadav/Heart-Rate-moniter-system-using-iot) | SEP22 - Nov 22 |
-
--->
-<br>
+</p>
 
 <br>
 
-<!--<h2 align="left">📄 Certificate</h2>
-
-- Qualifier Coding Ninjas- CODEKAZE, Qualifier of Round 2 Global Rank 899 and collage rank 14. [Certificate](https://drive.google.com/file/d/1rEN9BCHKDOVU_bYXwCn3dq0ELSqvoJlh/view)
-- Code Gladiators semifinalist,It is coding competition to identify top innovative programmers.
-- Knight at Leetcode (1859)[Profile](https://leetcode.com/Kashish_singh_yadav_20/)
-- Google ux/ui Design Professional certificate-providing by GOOGLE(COURSERA)[Certificate](https://drive.google.com/file/d/1h9cesxndg05YcxAU5Wxjy_hHEkkXsh9I/view)
-- AI Engineering research Certificate , providing by IBM.  [Certificate](https://drive.google.com/file/d/1p8ccVXm9pKy9T1rZie56v9Nk8GV8Gm-W/view)
-- ML,Nosql Assessment Passed on Linkedln: Passed in the top 5% among 1.5M participants. 
-[Certificate](https://www.linkedin.com/in/kashish-singh-939a10222/)
--->
-
-
-<h3 align="left">⭐ Connect with me on social media 📲 </h3>
-
-
-| Linkedin | GitHub | Stackoverflow | Instagram | Twitter | Facebook |
-|-----------|-----------|-----------|-----------|-----------|-----------|
-| <p align="center"><a href="https://www.linkedin.com/in/kashishsingh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitmaity" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/kashishsinghyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"><a href="https://stackoverflow.com/users/22652093/kashish-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"><a href="https://www.instagram.com/codewithkashish_20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ansuman_behera_/" height="30" width="40" /></a></p> |<p align="center"> <a href="https://twitter.com/isthisKashishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p>|<p align="center"> <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_ansuman_behera_/" height="30" width="40" /></a></p> |
    
 <br>
 
