@@ -13,7 +13,7 @@
 <!-- - 👯 I’m looking to collaborate on **𝑭𝒂𝒄𝒆 𝒓𝒆𝒄𝒐𝒈𝒊𝒏𝒂𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒕𝒓𝒂𝒏𝒔𝒂𝒄𝒕𝒊𝒐𝒏 𝒔𝒚𝒔𝒕𝒆m** -->
 - 👨‍💻 All of my projects are available at [Github](https://github.com/kashishsinghyadav)
 
-- 💬  Ask Me About  **Programming** , **Application Development** and **Writing (Poetry, Blogs, or Anything Creative!)**
+- 💬  Ask Me About  **Programming** , **Application Development** , **Writing (Poetry, Blogs, or Anything Creative!)** and **Cosmos!**
 
 - 📫 How to reach me *kashishhsinghhh@gmail.com*
 
