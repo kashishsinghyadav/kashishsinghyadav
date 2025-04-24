@@ -22,15 +22,26 @@
 
 <br>
 <h3 align="left">Connect with me 📲</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kashishsingh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashishsingh20" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/kashishsingh20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kashishsingh20/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/kashishsinghy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kashishsinghy" height="30" width="40" /></a>
-<a href="https://x.com/isthisKashishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarun_gusain/" height="30" width="40" /></a>
-<a href="https://medium.com/@kashishsinghy" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="medium_profile" height="30" width="40" />
-</a>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/kashishsingh20" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashishsingh20" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/kashishsingh20/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kashishsingh20" height="30" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/kashishsinghy/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kashishsinghy" height="30" width="40" />
+  </a>
+  <a href="https://x.com/isthisKashishh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isthisKashishh" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@kashishsinghy" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="medium_profile" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/kash_20" target="blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/codechef.png" alt="codechef_profile" height="30" width="40" />
+  </a>
 </p>
 
 <br>
